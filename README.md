@@ -92,7 +92,9 @@ This will launch a web-based dashboard at `http://localhost:8501`.
 
 ## 📈 Sample Dashboard Preview
 
-(Insert screenshot here if uploading to GitHub)
+View dashboard here
+
+https://evaluating-the-impact-of-marketing-campaigns-using-a-b-testing.streamlit.app/
 
 ---
 
