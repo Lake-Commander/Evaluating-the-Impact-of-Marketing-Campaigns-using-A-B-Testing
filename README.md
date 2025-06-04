@@ -25,8 +25,8 @@ The primary goals are:
 | File                                   | Description                                                         |
 | -------------------------------------- | ------------------------------------------------------------------- |
 | `marketing_AB.csv`                     | Dataset containing user interactions and ad exposure details        |
-| `Question_Mini_Project_Module_5.ipynb` | Jupyter Notebook with complete data analysis and hypothesis testing |
-| `ab_test_dashboard.py`                 | Streamlit app to interactively visualize results                    |
+| `AB_testing.ipynb` | Jupyter Notebook with complete data analysis and hypothesis testing |
+| `AB_test_dashboard.py`                 | Streamlit app to interactively visualize results                    |
 | `README.md`                            | This file - explanation and usage guide                             |
 
 ---
@@ -65,7 +65,7 @@ pip install pandas seaborn matplotlib scipy streamlit
 ### 3. Run the Jupyter Notebook (Optional)
 
 ```bash
-jupyter notebook Question_Mini_Project_Module_5.ipynb
+jupyter notebook AB_testing.ipynb
 ```
 
 Explore the full analysis step by step.
@@ -73,7 +73,7 @@ Explore the full analysis step by step.
 ### 4. Run the Streamlit Dashboard
 
 ```bash
-streamlit run ab_test_dashboard.py
+streamlit run AB_test_dashboard.py
 ```
 
 This will launch a web-based dashboard at `http://localhost:8501`.
@@ -112,8 +112,8 @@ Please fork the repo and submit a pull request.
 
 Feel free to connect if you have questions:
 
-* Email: [yourname@example.com](mailto:yourname@example.com)
-* GitHub: [your-username](https://github.com/your-username)
+* Email: [elakhe.ephraim.9@egmail.com](mailto:elakhe.ephraim.9@egmail.com)
+* GitHub: [Lake-Commander](https://github.com/Lake-Commander)
 
 ---
 
