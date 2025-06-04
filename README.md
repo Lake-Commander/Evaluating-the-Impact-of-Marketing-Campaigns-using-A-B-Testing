@@ -44,8 +44,8 @@ The primary goals are:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/marketing-ab-test-analysis.git
-cd marketing-ab-test-analysis
+git clone https://github.com/Lake-Commander/Evaluating-the-Impact-of-Marketing-Campaigns-using-A-B-Testing.git
+cd Evaluating-the-Impact-of-Marketing-Campaigns-using-A-B-Testing
 ```
 
 ### 2. Install Required Packages
