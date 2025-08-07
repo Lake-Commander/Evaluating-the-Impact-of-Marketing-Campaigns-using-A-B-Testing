@@ -114,8 +114,8 @@ Please fork the repo and submit a pull request.
 
 Feel free to connect if you have questions:
 
-* Email: [elakhe.ephraim.9@egmail.com](mailto:elakhe.ephraim.9@egmail.com)
-* GitHub: [Lake-Commander](https://github.com/Lake-Commander)
+* [Mail:](mailto:elakhe.ephraim.9@egmail.com)
+* [GitHub:](https://github.com/Lake-Commander)
 
 ---
 
