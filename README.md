@@ -1,10 +1,10 @@
-# 📊 Evaluating-the-Impact-of-Marketing-Campaigns-using-A-B-Testing
+#  Evaluating-the-Impact-of-Marketing-Campaigns-using-A-B-Testing
 
 Welcome to the **Marketing Campaign A/B Test Analysis** project! This repository contains a professional analysis of marketing campaign data using Python, hypothesis testing, and a dynamic **Streamlit dashboard** for visualization.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project evaluates the performance of a marketing campaign by comparing two user groups:
 
@@ -13,14 +13,14 @@ This project evaluates the performance of a marketing campaign by comparing two 
 
 The primary goals are:
 
-1. ✅ Determine whether ads lead to higher conversion rates.
-2. 💰 Estimate the revenue generated from ad conversions.
-3. 📐 Use A/B testing (Chi-square test) to assess statistical significance.
-4. 💡 Provide actionable business insights.
+1. Determine whether ads lead to higher conversion rates.
+2.  Estimate the revenue generated from ad conversions.
+3.  Use A/B testing (Chi-square test) to assess statistical significance.
+4.  Provide actionable business insights.
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
 | File                                   | Description                                                         |
 | -------------------------------------- | ------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ The primary goals are:
 
 ---
 
-## 🧪 Technologies Used
+##  Technologies Used
 
 * **Python** (Pandas, Matplotlib, Seaborn, Scipy)
 * **Jupyter Notebook** for analysis
@@ -39,7 +39,7 @@ The primary goals are:
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### 1. Clone the Repository
 
@@ -80,7 +80,7 @@ This will launch a web-based dashboard at `http://localhost:8501`.
 
 ---
 
-## 🎯 Insights You Can Gain
+##  Insights You Can Gain
 
 * Which group converted more users?
 * When are ads most effective (time/day)?
@@ -90,7 +90,7 @@ This will launch a web-based dashboard at `http://localhost:8501`.
 
 ---
 
-## 📈 Sample Dashboard Preview
+##  Sample Dashboard Preview
 
 View dashboard here
 
@@ -98,7 +98,7 @@ https://evaluating-the-impact-of-marketing-campaigns-using-a-b-testing.streamlit
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you’d like to:
 
@@ -110,7 +110,7 @@ Please fork the repo and submit a pull request.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Feel free to connect if you have questions:
 
@@ -119,7 +119,7 @@ Feel free to connect if you have questions:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.
 
